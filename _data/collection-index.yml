@@ -883,3 +883,8 @@
   contact: https://github.com/jpawlowski/devcontainer-features/issues
   repository: https://github.com/jpawlowski/devcontainer-features
   ociReference: ghcr.io/jpawlowski/devcontainer-features
+- name: Workoho Dev Container Templates
+  maintainer: Workoho GmbH
+  contact: https://github.com/workoho/devcontainer-templates/issues
+  repository: https://github.com/workoho/devcontainer-templates
+  ociReference: ghcr.io/workoho/devcontainer-templates
